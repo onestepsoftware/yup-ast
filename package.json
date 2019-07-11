@@ -1,6 +1,6 @@
 {
     "version": "1.0.2",
-    "main": "index.js",
+    "main": "source/index.js",
     "author": "will@wasd.team",
     "module": "index.js",
     "name": "@overgear/yup-ast",
